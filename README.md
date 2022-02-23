@@ -9,7 +9,7 @@ Understanding polynomial multipliers the conventional algorithm is good starting
 Verilog files:
 
 1) CM_test_0.v
-This is top module for this project. In tis module, VIO is instantiated which helps in giving inputs and reading outputs from our main multiplication module.
+This is top module for this project. In this module, VIO is instantiated which helps in giving inputs and reading outputs from our main multiplication module.
 By changing value of "n" in top module and instantiating required bit module in top module, synthesize conventional algorithm for multiplication for polynomial can be implemented.
 
 2) CA_2bit.v
