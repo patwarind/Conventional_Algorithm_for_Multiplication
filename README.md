@@ -1,6 +1,6 @@
 # Conventional_Algorithm_for_Multiplication
  
-In this project, conventional algorithm for polynomial multiplication is synthesized and simulated in Xilinx Viva do 2019.2 using verilog HDL.
+In this project, conventional algorithm for polynomial multiplication is synthesized and simulated in Xilinx Vivado 2019.2 using verilog HDL.
 
 The conventional algorithm for multiplication for polynomial utilizes more LUTs on FPGA but it is faster and basic multiplier.
 Understanding polynomial multipliers the conventional algorithm is good starting point.  
